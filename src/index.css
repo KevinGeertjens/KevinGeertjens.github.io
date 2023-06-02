@@ -28,3 +28,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-size: 42px;
+}
+
+h2{
+  font-size: 28px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+h4{
+  font-size: 18px;
+}
+
+p{
+  font-size: 16px;
+}
